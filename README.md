@@ -49,7 +49,7 @@ Also have a look at the options of the Grunt plugins this project uses:
 
 ## License 
 
-Code released under [the MIT license](https://github.com/matthiasott/grunt-rwd-images/LICENSE).
+Code released under [the MIT license](https://github.com/matthiasott/grunt-rwd-images/blob/master/LICENSE).
 
 ## Author
 
